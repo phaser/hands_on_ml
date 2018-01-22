@@ -1,6 +1,7 @@
 Prerequisites (conda)
 =====================
 
+	conda install conda_build
 	conda install scipy Cython nb_conda python numpy pandas matplotlib
 	python -m ipykernel install --user --name HandsOnML --display-name "Python (HandsOnML)"
 	conda update pip
